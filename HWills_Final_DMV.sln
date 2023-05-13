@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HWills_Final_DMV", "HWills_Final_DMV.csproj", "{70358E36-0AAA-45A2-9F57-73862A3FC143}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWills_Final_DMVTests", "..\HWills_Final_DMVTests\HWills_Final_DMVTests.csproj", "{F48B32B5-D3B6-43CF-B80B-071B8F7B1F55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70358E36-0AAA-45A2-9F57-73862A3FC143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70358E36-0AAA-45A2-9F57-73862A3FC143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70358E36-0AAA-45A2-9F57-73862A3FC143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70358E36-0AAA-45A2-9F57-73862A3FC143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F48B32B5-D3B6-43CF-B80B-071B8F7B1F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F48B32B5-D3B6-43CF-B80B-071B8F7B1F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F48B32B5-D3B6-43CF-B80B-071B8F7B1F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F48B32B5-D3B6-43CF-B80B-071B8F7B1F55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {332B6FE6-5E2D-4493-B10B-52A65B3A61A3}
+	EndGlobalSection
+EndGlobal
